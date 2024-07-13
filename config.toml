@@ -1,5 +1,5 @@
-baseURL = "https://ericmurphy.xyz/"
-title = "Eric Murphy"
+baseURL = "https://TTV.xyz/"
+title = "TTV"
 
 [permalinks]
     post = "/blog/:slug"
@@ -39,13 +39,13 @@ title = "Eric Murphy"
   [[menu.social]]
     name = "GitHub"
     pre = "github"
-    url = "https://github.com/ericmurphyxyz"
+    url = "https://github.com/PoopooumgoodTTV"
     weight = 10
 
   [[menu.social]]
-    name = "YouTube"
-    pre = "youtube"
-    url = "https://youtube.com/@ericmurphyxyz"
+    name = "Kirka"
+    pre = "Kirka"
+    url = "Kirka.io"
     weight = 20
 
   [[menu.social]]
